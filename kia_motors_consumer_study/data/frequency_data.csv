@@ -1,0 +1,142 @@
+variable,category,respondents,reported_percentage,source_table
+Area of Residence,Town,88,48.9,1
+Area of Residence,Village,92,51.1,1
+Age,Upto 25 years,65,36.1,2
+Age,26 to 40 years,85,47.2,2
+Age,41 to 60 years,24,13.3,2
+Age,Above 60 years,6,3.3,2
+Gender,Male,106,58.9,3
+Gender,Female,74,41.1,3
+Marital Status,Married,111,61.7,4
+Marital Status,Unmarried,69,38.3,4
+Educational Qualification,Uneducated,8,4.4,5
+Educational Qualification,Upto SSLC,25,13.9,5
+Educational Qualification,HSC,32,17.8,5
+Educational Qualification,Graduate,77,42.8,5
+Educational Qualification,Professional,33,18.3,5
+Educational Qualification,Others,5,2.8,5
+Occupation,Agriculturist,28,14.6,6
+Occupation,Employed,66,36.7,6
+Occupation,Business,32,17.8,6
+Occupation,Professional,22,12.2,6
+Occupation,Home maker,26,14.4,6
+Occupation,Student,6,3.3,6
+Earning members in the Family,Below 2 members,28,14.6,7
+Earning members in the Family,2-5 members,128,71.1,7
+Earning members in the Family,Above 5 members,24,13.3,7
+Non – Earning members in the Family,Below 2 members,121,67.2,8
+Non – Earning members in the Family,2-5 members,34,18.9,8
+Non – Earning members in the Family,Above 5 members,25,13.9,8
+Size of the Family,Below 2 members,35,19.4,9
+Size of the Family,2-5 members,133,73.9,9
+Size of the Family,Above 5 members,12,6.7,9
+Type of Family,Joint,62,34.4,10
+Type of Family,Nuclear,118,64.6,10
+Status in the Family,Head,70,38.9,11
+Status in the Family,Member,110,61.1,11
+Monthly income,"Upto Rs.10,000",18,10.0,12
+Monthly income,"Rs.10,001 - Rs.20,000",42,23.3,12
+Monthly income,"Rs.20,001 - Rs.40,000",66,36.7,12
+Monthly income,"Rs.40,001 - Rs.50,000",31,17.2,12
+Monthly income,"Above Rs.50,000",23,12.8,12
+Family Expenditure,"Upto Rs.15,000",69,38.3,13
+Family Expenditure,"Rs.15,001 - Rs.25,000",66,36.7,13
+Family Expenditure,"Rs.25,001 - Rs.50,000",33,18.3,13
+Family Expenditure,"Rs.50,001 - Rs.1,00,000",7,3.9,13
+Family Expenditure,"Above Rs.1,00,000",5,2.8,13
+Number of Cars Owned,One,136,74.6,14
+Number of Cars Owned,Two,32,17.8,14
+Number of Cars Owned,Three,10,4.6,14
+Number of Cars Owned,More than 3,2,1.1,14
+Price of the Car,"Below Rs.3,00,000",56,31.1,15
+Price of the Car,"Rs.3,00,001 - Rs.5,00,000",43,23.9,15
+Price of the Car,"Rs.5,00,001 - Rs.10,00,000",50,27.8,15
+Price of the Car,"Rs.10,00,001 - Rs.15,00,000",20,11.1,15
+Price of the Car,"Above Rs.15,00,000",11,6.1,15
+Frequency of Using,Less than 2 years,49,27.2,16
+Frequency of Using,2-4 years,66,36.7,16
+Frequency of Using,4-6 years,39,21.7,16
+Frequency of Using,Above 6 years,26,14.4,16
+Source of Information,Advertisement,68,37.8,17
+Source of Information,Friends,51,28.3,17
+Source of Information,Relatives,38,21.1,17
+Source of Information,Dealer's representative,15,8.3,17
+Source of Information,Others,8,4.4,17
+Mention the media of Advertisement,Newspapers,30,47.2,18
+Mention the media of Advertisement,Magazines,40,4.4,18
+Mention the media of Advertisement,Television,25,36.7,18
+Mention the media of Advertisement,Posters & Pamphlets,29,8.8,18
+Mention the media of Advertisement,Others,56,2.9,18
+Purchase Influence,Self,100,54.6,19
+Purchase Influence,Wife / husband,41,22.8,19
+Purchase Influence,Children,12,6.7,19
+Purchase Influence,Parents,15,8.3,19
+Purchase Influence,Friends,8,4.4,19
+Purchase Influence,Peer group,2,1.1,19
+Purchase Influence,Others,2,1.1,19
+Purpose of possession of car,Personal use,143,79.4,20
+Purpose of possession of car,Business use,29,16.1,20
+Purpose of possession of car,Social status,6,3.3,20
+Purpose of possession of car,Others,2,1.1,20
+Own the Car,Brand New,125,69.4,21
+Own the Car,Second hand,55,30.6,21
+Place of Purchase,Dealers,106,58.9,22
+Place of Purchase,Sub - dealers,28,14.6,22
+Place of Purchase,Mechanics,17,9.4,22
+Place of Purchase,Friends,23,12.8,22
+Place of Purchase,Others,6,3.3,22
+Mode of Purchase,Cash,98,54.4,23
+Mode of Purchase,Credit,38,21.1,23
+Mode of Purchase,Both,44,24.4,23
+Feel about Price of the Car,Costly,40,22.2,24
+Feel about Price of the Car,Moderate,75,41.7,24
+Feel about Price of the Car,Economical,48,26.7,24
+Feel about Price of the Car,Low,17,9.4,24
+Type of Fuel,Petrol,121,67.2,25
+Type of Fuel,Diesal,59,32.8,25
+Reason for preferring diesel,Low Price,80,47.4,26
+Reason for preferring diesel,Fuel Efficiency,100,52.5,26
+Mileage per litre,Upto 10 kms,22,12.2,27
+Mileage per litre,1-15 kms,61,33.9,27
+Mileage per litre,15-20 kms,60,33.3,27
+Mileage per litre,Above 20 kms,37,20.6,27
+Gas kit fitted in the car,Yes,42,23.3,28
+Gas kit fitted in the car,No,138,76.7,28
+Reason for fitting gas kit,Economical,18,59.5,29
+Reason for fitting gas kit,Fule efficiency,68,26.2,29
+Reason for fitting gas kit,Easy availability,94,14.3,29
+Frequency of Service,Once in 6 months,70,38.9,30
+Frequency of Service,Once in a year,38,21.1,30
+Frequency of Service,Based on running (kms),72,40.0,30
+Place of service of car,Dealers,104,57.8,31
+Place of service of car,Authorized Service Centres,69,38.3,31
+Place of service of car,Others,7,3.9,31
+Having After Sales and Service,Yes,114,63.3,32
+Having After Sales and Service,No,66,36.7,32
+Maintanance Expenditure,"Upto Rs.5,000",36,20.0,33
+Maintanance Expenditure,"Rs.5,001 - Rs.10,000",79,43.9,33
+Maintanance Expenditure,"Rs.10,001 - Rs.15,000",47,26.1,33
+Maintanance Expenditure,"Above Rs.15,000",18,10.0,33
+Opinion about Maintenance Cost,Very High,31,17.2,34
+Opinion about Maintenance Cost,High,65,36.1,34
+Opinion about Maintenance Cost,Normal,71,39.4,34
+Opinion about Maintenance Cost,Low,13,7.2,34
+Opinion about Resale Value,Very Good,71,39.4,35
+Opinion about Resale Value,Moderate,103,57.2,35
+Opinion about Resale Value,Very Poor,6,3.3,35
+Problems faced by using the car,Yes,97,53.9,36
+Problems faced by using the car,No,83,46.1,36
+Types of Problems,Poor Technology,28,28.8,37
+Types of Problems,Poor Service,10,10.3,37
+Types of Problems,Non - availability of spares,13,13.4,37
+Types of Problems,High cost of service,23,23.7,37
+Types of Problems,Poor Pickup,7,7.2,37
+Types of Problems,Poor road grip,8,8.2,37
+Types of Problems,Fuel inefficiency,5,4.1,37
+Types of Problems,Passenger Discomfort,2,2.1,37
+Types of Problems,Inadequate space,1,1.2,37
+Opinion of the respondents regarding the brand switch over,Yes,168,93.3,38
+Opinion of the respondents regarding the brand switch over,No,12,6.7,38
+Reasons for the brand switch over,Like to go for a new model,106,63.1,39
+Reasons for the brand switch over,Not up to my satisfaction,18,10.7,39
+Reasons for the brand switch over,Like to have a new technology car,44,26.2,39

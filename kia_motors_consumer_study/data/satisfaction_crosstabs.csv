@@ -1,0 +1,46 @@
+variable,category,high,moderate,low,source_table
+Area of Residence,Town,42,40,6,40
+Area of Residence,Village,39,30,23,40
+Age,Upto 25 years,23,26,16,41
+Age,26 to 40 years,41,32,12,41
+Age,41 to 60 years,12,12,0,41
+Age,Above 60 years,5,0,1,41
+Gender,Male,57,42,7,42
+Gender,Female,24,28,22,42
+Marital Status,Married,68,31,12,43
+Marital Status,Unmarried,13,39,17,43
+Educational Qualification,Uneducated,2,5,1,44
+Educational Qualification,Upto SSLC,9,16,0,44
+Educational Qualification,HSC,23,7,2,44
+Educational Qualification,Graduate,36,25,16,44
+Educational Qualification,Professional,10,15,8,44
+Educational Qualification,Others,1,2,2,44
+Occupation,Agriculturist,13,15,0,45
+Occupation,Employed,20,34,12,45
+Occupation,Business,16,16,0,45
+Occupation,Professional,17,1,4,45
+Occupation,Home maker,13,2,11,45
+Occupation,Student,2,2,2,45
+Earning members in the Family,Below 2 members,7,12,9,46
+Earning members in the Family,2-5 members,56,53,19,46
+Earning members in the Family,Above 5 members,18,5,1,46
+Non - Earning members in the Family,Below 2 members,60,46,15,47
+Non - Earning members in the Family,2-5 members,11,13,10,47
+Non - Earning members in the Family,Above 5 members,10,11,4,47
+Size of the Family,Below 2 members,13,19,3,48
+Size of the Family,2-5 members,58,49,26,48
+Size of the Family,Above 5 members,10,2,0,48
+Type of Family,Joint,40,19,3,49
+Type of Family,Nuclear,41,51,26,49
+Status in the Family,Head,41,23,6,50
+Status in the Family,Member,40,47,23,50
+Monthly income,"Upto Rs.10,000",9,4,5,51
+Monthly income,"Rs.10,001 - Rs.20,000",15,24,3,51
+Monthly income,"Rs.20,001 - Rs.40,000",31,26,9,51
+Monthly income,"Rs.40,001 - Rs.50,000",16,4,11,51
+Monthly income,"Above Rs.50,000",10,12,1,51
+Family Expenditure,"Upto Rs.15,000",37,20,12,52
+Family Expenditure,"Rs.15,001 - Rs.25,000",24,34,8,52
+Family Expenditure,"Rs.25,001 - Rs.50,000",8,16,9,52
+Family Expenditure,"Rs.50,001 - Rs.1,00,000",7,0,0,52
+Family Expenditure,"Above Rs.1,00,000",5,0,0,52
